@@ -1,2 +1,2 @@
-# Shell
+# Linux Shell
 HackerRank Practice
