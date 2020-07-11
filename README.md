@@ -1,2 +1,2 @@
-# Born Again Shell (BASH)
+# Bourne-again shell (Bash)
 HackerRank Practice
