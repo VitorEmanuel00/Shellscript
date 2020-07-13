@@ -1,3 +1,3 @@
 # Bourne-again shell (Bash)
 
-<img src="https://www.reddit.com/r/Ubuntu/comments/bzhw12/basic_linux_commands/" alt="basic linux comands">
+<img src="https://github.com/VitorEmanuelDev/Shell_Practice/blob/master/basic_linux_commands.jpg" alt="basic linux comands">
