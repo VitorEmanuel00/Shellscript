@@ -1,6 +1,6 @@
 # Bourne-again shell (Bash)
 
-Linux Introduction Presentation (PT-BR): https://slides.com/vitoremanueldev/deck
+Linux Introduction Presentation (PT-BR): https://slides.com/vitoremanueldev/intro_gnu_linux
 
 Explain Shell: https://explainshell.com/
 
